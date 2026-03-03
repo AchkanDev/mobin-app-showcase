@@ -27,11 +27,11 @@
 
 <div align="center">
 
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-133520183959.jpg" width="160"/>
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-101546180089.jpg" width="160"/>
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-868176610949.jpg" width="160"/>
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-699101923397.jpg" width="160"/>
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-734374502069.jpg" width="160"/>
+| Splash / Home | Prayers | Qibla | Prayer Times |
+|--------------|---------|-------|-------------|
+| <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-133520183959.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-101546180089.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-868176610949.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-699101923397.jpg" width="180"/> |
+
+<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-734374502069.jpg" width="180"/>
 
 </div>
 
