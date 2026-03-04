@@ -27,11 +27,13 @@
 
 <div align="center">
 
-| Splash / Home | Prayers | Qibla | Prayer Times |
-|--------------|---------|-------|-------------|
-| <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-133520183959.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-101546180089.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-868176610949.jpg" width="180"/> | <img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-699101923397.jpg" width="180"/> |
+| Splash | Onboarding | Home | Prayers |
+|--------|-----------|------|--------|
+| <img src="screenshots/screen1.jpg" width="180"/> | <img src="screenshots/screen2.jpg" width="180"/> | <img src="screenshots/screen3.jpg" width="180"/> | <img src="screenshots/screen4.jpg" width="180"/> |
 
-<img src="https://s.cafebazaar.ir/images/upload/screenshot/ir.mobinapp.mainapp-734374502069.jpg" width="180"/>
+| Qibla | Prayer Times | Dhikr Counter | Adhkar |
+|-------|-------------|--------------|--------|
+| <img src="screenshots/screen5.jpg" width="180"/> | <img src="screenshots/screen6.jpg" width="180"/> | <img src="screenshots/screen7.jpg" width="180"/> | <img src="screenshots/screen8.jpg" width="180"/> |
 
 </div>
 
